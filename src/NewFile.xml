@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BookingPolicy xmlns:fdg="dfg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Practice/src/Users/M1018161/Desktop/Messaging1/POM-TALEND.xsd" xsi:schemaLocation="dfg ../../Practice/src/Users/M1018161/Desktop/Messaging1/POM-TALEND.xsd ">
+  <Client/>
+  <PolicyExtension/>
+  <Product>
+    <Premium>
+      <Key/>
+    </Premium>
+  </Product>
+  <MultNat/>
+  <OverridingCommission/>
+</BookingPolicy>
